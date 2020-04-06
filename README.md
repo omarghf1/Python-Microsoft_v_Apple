@@ -1,4 +1,4 @@
-# Python Microsfot vs. Macbook
+# Microsfot vs. Apple Analysis with Python
 
 This analysis was done as the final team project for a Machine Learning class at Hult International Business School, as we finished our Masters in Business Analytics.
 
@@ -6,10 +6,10 @@ This analysis was done as the final team project for a Machine Learning class at
 We completed a survey of 392 people and we asked them 78 questions about their personalities, interests, and their preference between Microsoft laptops and Macbooks.
 
 ## Main Question to Answer
-Can we discover who is a Microsoft user vs. a Macbook user based on their personality traits? 
+Can we discover who is a Microsoft user vs. a Apple user based on personal characteristics or their personality?
 
 ## Survey Composition
-The questions in the survey were composed of The Big 5 Personality Test and the Hult DNA.
+The questions in the survey were composed of The Big 5 Personality Test, the Hult DNA, and general demographic questions.
 
 **What is The Big 5 Personality Test?**</br>
 This is a widely accepted social science technique to test personalities, and famously known to be the tecnique Cambridge Analytica used predict which personalities voting behaviors in the 2016 US Presidential Election (source: [Here’s the personality test Cambridge Analytica had Facebook users take](https://www.businessinsider.com/facebook-personality-test-cambridge-analytica-data-trump-election-2018-3). It breaks down a personalities into 5 dimensions and ranks them High or Low in each one. The dimensions are: Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism (source: [The Big Five Personality Traits](https://www.markdownguide.org/basic-syntax/)).
@@ -26,7 +26,6 @@ The Hult DNA is a set of aspirations for the professional development of Hult st
 - Team Building: Builds collaborative Relationships
 - Team Building: Inspires and Motivates
 - Team Building: Resolves Conflicts Constructively
-
 
 
 ## Final Analysis
